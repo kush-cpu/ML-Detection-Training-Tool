@@ -84,7 +84,7 @@ Assets/MLDetection/Data/
 ## Support
 
 For issues and feature requests, please contact:
-[your.email@example.com](mailto:kushagranigam550@gmail.com)
+[kushagranigam550@gmail.com](mailto:kushagranigam550@gmail.com)
 
 ## License
 
